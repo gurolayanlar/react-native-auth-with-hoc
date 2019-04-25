@@ -1,1 +1,3 @@
-## React Native Auuthentication using High Order C
+## React Native Authentication using High Order Component
+
+Using react navigation and moving between screens
